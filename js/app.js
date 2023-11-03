@@ -32,7 +32,7 @@ function cambioSeccion(seccion){
     seccion.scrollIntoView({
         behavior:'smooth'
     })
-}
+};
 
 
 document.getElementById('tipo_seguro').addEventListener('change', function() {

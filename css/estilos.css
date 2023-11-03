@@ -56,9 +56,7 @@ p, a{
    display: block;
    text-align: center;
    transition: background-color .3s ease-in-out;
- 
-    
-}
+ }
 @media(min-width: 768px) {
     .bordes{
         display: inline-block;
@@ -219,7 +217,6 @@ p, a{
         text-align: left;
         padding-top: 0;
     }
-
 }
 
 
@@ -295,7 +292,6 @@ p, a{
 /*Seccion contacto*/
 .contacto{
     padding-top: 5rem;
-
 }
 .contacto h2{
     text-align: center;
