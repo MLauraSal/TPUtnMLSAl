@@ -3,10 +3,10 @@
 
 
 
-## *Ejercicio clase 1 Grupo H*
-#### Participantes   
-- Mariana Salgueiro
-- Gaby Per
+## *Ejercicio clase 1 ( Grupo H)*  
+## Participantes:
+
+
 ## Consigna del trabajo:  
 
  Seguro No Pagamos Cooperativa es una compañía de seguros que lleva 2 años en el mercado.Hasta el momento trabajan con los esquemas tradicionales de venta, es decir contacto
