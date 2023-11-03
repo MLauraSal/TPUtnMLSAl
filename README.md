@@ -4,7 +4,11 @@
 
 
 ## *Ejercicio clase 1 ( Grupo H)*  
-## Participantes:
+## Participantes:  
+
+-Selva Lorena Mamani  
+-Gabriela Peralta  
+-Mariana Salgueiro
 
 
 ## Consigna del trabajo:  
